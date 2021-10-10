@@ -1,0 +1,14 @@
+- name: Apple 
+  tasty: Yes
+
+- name: Kiwi  
+  tasty: Yes
+
+- name: Orange
+  tasty: Yes
+
+- name: Banana
+  tasty: Yes
+
+- name: Pear  
+  tasty: Yes
